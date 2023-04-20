@@ -1,2 +1,2 @@
 print("HELLO")
-print("TOm and JErry is best ")
+print("Main Ninja Hatauri , me aya pahado se upar ")
