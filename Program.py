@@ -1,4 +1,4 @@
-print("HELLO")
+#print("HELLO")
 #print("Main Ninja Hatauri , me aya pahado se upar ")
 
 num1 = 5
